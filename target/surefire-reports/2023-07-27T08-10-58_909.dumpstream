@@ -1,0 +1,5 @@
+# Created at 2023-07-27T08:11:00.559
+Boot Manifest-JAR contains absolute paths in classpath 'D:\EclipseNewWorkspace2023\PetStoreTestAssuredProject\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

@@ -1,0 +1,8 @@
+[INFO ] 2023-07-27 07:44:51.664 [main] UserTest2 - Creating User
+[INFO ] 2023-07-27 07:44:54.874 [main] UserTest2 - Reading User Details
+[INFO ] 2023-07-27 07:44:56.134 [main] UserTest2 - Updating User Details
+[INFO ] 2023-07-27 07:44:58.729 [main] UserTest2 - Deleting User
+[INFO ] 2023-07-27 08:11:54.993 [main] UserTest - Creating User
+[INFO ] 2023-07-27 08:11:56.407 [main] UserTest - Reading User Details
+[INFO ] 2023-07-27 08:11:57.780 [main] UserTest - Updating User Details
+[INFO ] 2023-07-27 08:12:00.343 [main] UserTest - Deleting User
